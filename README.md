@@ -1,7 +1,7 @@
-= Open People Meter
+# Open People Meter
 Project of software for create a identify what tv channel is synthonized
 
-== Software Dependencys
+## Software Dependencys
 
 This is principal dependency of project.
 
@@ -11,12 +11,12 @@ Another very important dependency it is:
 
 github.com/jiaaro/pydub
 
-== Architecture
+## Architecture
 ![Alt text](imgs/architecture.jpeg?raw=true "Architecture System")
 
 
-== Hardware
+## Hardware
 
-All stations bases use as base a cubieboard A10 platform
+All stations bases use as base a cubieboard A10 platform, because there is a auxiliar audio input native in this board.
 ![Alt text](imgs/cubieboard.jpeg?raw=true "CubieBoard")
 
