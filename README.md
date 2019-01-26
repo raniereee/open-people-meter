@@ -45,3 +45,9 @@ All stations bases use as base a cubieboard A10 platform, because there is a aux
 In this system, the capture board is connected on auxiliar output of TV device.
 
 ![Alt text](imgs/audio_tv.jpg?raw=true "AuxOutput")
+
+
+## Operation
+Curve of capture in base stations and server
+![Alt text](imgs/capure_times.jpeg?raw=true "CapturesTimas")
+
