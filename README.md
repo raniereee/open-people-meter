@@ -1,5 +1,5 @@
 # Open People Meter
-Project of software for create a identify what tv channel is synthonized
+Project of software for identify what tv channel is synthonized
 
 ## System Architecture
 ![Alt text](imgs/architecture.jpeg?raw=true "Architecture System")
