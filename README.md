@@ -18,5 +18,5 @@ github.com/jiaaro/pydub
 == Hardware
 
 All stations bases use as base a cubieboard A10 platform
-![Alt text](imgs/cubieboad.jpeg?raw=true "CubieBoard")
+![Alt text](imgs/cubieboard.jpeg?raw=true "CubieBoard")
 
