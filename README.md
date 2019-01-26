@@ -9,7 +9,7 @@ Project of software for create a identify what tv channel is synthonized
 ### Dependencies
 This is principal dependency of project.
 
-github.com/worldveil/dejavu/
+[Dejavu](github.com/worldveil/dejavu/)
 
 Another very important dependency it is:
 
