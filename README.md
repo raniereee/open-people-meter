@@ -13,7 +13,7 @@ This is principal dependency of project.
 
 Another very important dependency it is:
 
-github.com/jiaaro/pydub
+[Pydub](github.com/jiaaro/pydub)
 
 ### Modules
 
