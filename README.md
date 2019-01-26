@@ -42,3 +42,6 @@ Hardware remote that capture and process it, generating the fingerprints files a
 All stations bases use as base a cubieboard A10 platform, because there is a auxiliar audio input native in this board.
 ![Alt text](imgs/cubieboard.jpeg?raw=true "CubieBoard")
 
+In this system, the capture board is connected on auxiliar output of TV device.
+
+![Alt text](imgs/audio_tv.jpg?raw=true "AuxOutput")
