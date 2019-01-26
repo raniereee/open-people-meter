@@ -48,6 +48,7 @@ In this system, the capture board is connected on auxiliar output of TV device.
 
 
 ## Operation
-Curve of capture in base stations and server
+Curve of capture in base stations and server. This time of capture in server, before and after capture in bases stations is need because there is delay in system TV analogic, paid and digital. 
+
 ![Alt text](imgs/capure_times.jpeg?raw=true "CapturesTimas")
 
