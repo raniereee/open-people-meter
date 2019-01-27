@@ -1,5 +1,5 @@
 # Open People Meter
-Project of software for identify what tv channel is synthonized
+Project of software for identify what tv channel is synthonized, thus measure TV/radio stations audience.
 
 ## System Architecture
 ![Alt text](imgs/architecture.jpeg?raw=true "Architecture System")
@@ -19,6 +19,8 @@ Another very important dependency it is:
 
 #### Base Stations
 Hardware remote that capture and process it, generating the fingerprints files and send to server for comparations. Only 7 seconds of audio are processed and sent to server the fingerprints file.
+
+The finger print hashe file is sent through cell phone mobile network. In the mean the hash file with TV power on, have about 30KB. Hence, the base station send  nearly 350MB for month.
 
 #### Servers
 * Bases for capure
