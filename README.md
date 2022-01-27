@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ![Alt text](imgs/architecture.jpeg?raw=true "Architecture System")
 =======
 # Open People Meter
@@ -57,4 +56,3 @@ Curve of capture in base stations and server. This time of capture in server, be
 
 ![Alt text](imgs/capure_times.jpeg?raw=true "CapturesTimas")
 
->>>>>>> 98d556f70fe84fb893f50003c9bb1aba77f284c2
