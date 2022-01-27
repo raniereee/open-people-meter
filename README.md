@@ -1,5 +1,3 @@
-![Alt text](imgs/architecture.jpeg?raw=true "Architecture System")
-=======
 # Open People Meter
 Project of software for identify what tv channel is synthonized, thus to measure TV/radio stations audience.
 
